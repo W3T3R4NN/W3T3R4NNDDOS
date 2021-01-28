@@ -15,8 +15,11 @@ Script ile yapılan illegal işleriin sorumluluklarınu kabul etmemekteyim
 For linux debian
 
 #git clone https://github.com/W3T3R4NN/W3T3R4NNDDOS.git
+
 #cd W3T3R4NNDDOS
+
 #sudo apt install python2
+
 #python2 w3t3r4nn.pyt
 
 
