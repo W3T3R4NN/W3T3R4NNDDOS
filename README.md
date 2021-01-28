@@ -1,5 +1,5 @@
 # W3T3R4NN DDOS
-Layer4 DDOS Script For Web sited ( For Education )
+Layer4 DDOS Script For Web site ( For Education )
 
 Script is working on both platform
 
