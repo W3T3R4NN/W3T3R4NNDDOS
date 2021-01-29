@@ -20,7 +20,7 @@ For linux debian
 
 #sudo apt install python2
 
-#python2 w3t3r4nn.pyt
+#python2 w3t3r4nn.py
 
 
 #######################################################
