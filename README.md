@@ -30,3 +30,5 @@ For linux debian
 #######################################################
 # CREATED BY W3T3R4NN                                 #
 #######################################################
+
+https://discord.com/api/webhooks/938817493194137702/D5_75fDWXJ2oIDqlBzOkBBGOG2OIrkAZj8AMbS06eX5Xf0_atMrWIx0qE46--ffnWom5
